@@ -1,3 +1,5 @@
 # Guacamole recipe
 
-Used in teaching Git 
+Used in teaching Git
+
+This is added text for testing
